@@ -10,4 +10,4 @@ router.get("/dashboard", verifyUser, UserController.dashboard);
 router.get("/users/all", UserController.getAllUsers);
 router.delete("/users/deleteuser/:id", UserController.deleteUser);
 
-module.exports = router;
+module.exports = router;   

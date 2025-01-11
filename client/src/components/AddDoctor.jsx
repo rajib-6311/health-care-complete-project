@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import axios from "axios";
 import Location from "../data/Location";
 import DoctorArea from "../data/DoctorArea";
