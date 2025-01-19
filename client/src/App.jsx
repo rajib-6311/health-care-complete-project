@@ -1,6 +1,4 @@
 import {
-  BrowserRouter,
-  Navigate,
   Route,
   Routes,
   useLocation,
@@ -43,7 +41,7 @@ const App = () => {
       window.scrollTo(0, 0);
     }, [pathname]);
 
-    return null;
+    return null; 
   };
 
   return (

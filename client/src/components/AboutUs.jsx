@@ -16,7 +16,7 @@ const AboutUs = () => {
           culpa cum excepturi veritatis, itaque consectetur blanditiis modi.
           Soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit.
         </p>
-        <NavLink
+        <NavLink     
           to="/health-tips"
           className="btn btn-primary mt-5 text-secondary"
         >
