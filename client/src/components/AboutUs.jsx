@@ -1,6 +1,6 @@
 
-import DocPat from "../assets/doc-pat.jpg";
-import { NavLink } from "react-router-dom";
+import DocPat from "../assets/doc-pat.jpg";  
+import { NavLink } from "react-router-dom";     
 
 const AboutUs = () => {
   return (

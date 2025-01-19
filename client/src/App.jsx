@@ -47,7 +47,7 @@ const App = () => {
   return (
     <>
       <ScrollToTop />
-      {!isDashboard && !isBloodBank && <Navbar />}
+      {!isDashboard && !isBloodBank && <Navbar/>}
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/chat" element={<Chatbot />} />
