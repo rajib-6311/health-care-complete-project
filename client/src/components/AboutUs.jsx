@@ -31,6 +31,7 @@ const AboutUs = () => {
         />
       </div>
     </div>
+    
   );
 };
 
