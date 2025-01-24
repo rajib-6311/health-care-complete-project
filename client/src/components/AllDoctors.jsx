@@ -42,4 +42,5 @@ const AllDoctors = () => {
   );
 };
 
+
 export default AllDoctors;
